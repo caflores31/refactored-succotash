@@ -1,0 +1,19 @@
+{
+  "name": "refactored-succotash",
+  "version": "1.0.0",
+  "description": "PWA Budget Tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caflores31/refactored-succotash.git"
+  },
+  "author": "CFA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caflores31/refactored-succotash/issues"
+  },
+  "homepage": "https://github.com/caflores31/refactored-succotash#readme"
+}
