@@ -1,10 +1,12 @@
 {
-  "name": "refactored-succotash",
+  "name": "budget-app",
   "version": "1.0.0",
   "description": "PWA Budget Tracker",
   "main": "server.js",
   "scripts": {
-    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "lite-server": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,15 @@
   "bugs": {
     "url": "https://github.com/caflores31/refactored-succotash/issues"
   },
-  "homepage": "https://github.com/caflores31/refactored-succotash#readme"
+  "homepage": "https://github.com/caflores31/refactored-succotash#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.5.15",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "pwa"
+  ]
 }
