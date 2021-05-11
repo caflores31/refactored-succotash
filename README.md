@@ -31,6 +31,7 @@ To start the server, run npm start. To access the app after starting the server,
 
 Deployed App Link : https://secret-basin-80181.herokuapp.com/
 
+![Alt text](/public/assets/images/budget.png?raw=true "PWA Budget Tracker")
 
 ## Repository
 
